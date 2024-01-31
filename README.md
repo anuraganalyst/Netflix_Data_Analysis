@@ -42,6 +42,8 @@ SQL, Python & Tableau
 6. Make the experience of watching smoother on TV, add new features
 
 **d)Original Content Investment:** Invest in more original content across various genres and formats to differentiate the platform and retain subscribers through exclusive offerings.
+
 **e) Global Expansion:** Expand the platform's global reach by acquiring and producing content tailored to different regions and cultures, attracting new subscribers worldwide.
+
 **f) Marketing Campaigns:** Launch targeted marketing campaigns highlighting popular directors, actors, and genres to attract and retain subscribers with tailored content offerings
 
