@@ -29,6 +29,7 @@ SQL, Python & Tableau
 # Recommended action items
 
 **a) Content Diversity:** Continue diversifying the content library with a mix of genres, formats, and regional content to attract a broader subscriber base. 
+
 **b) Personalized Recommendations:** Enhance the recommendation algorithm to provide personalized content suggestions based on individual viewing preferences, increasing user engagement and retention. 
 
 1. The first step towards Personalized Recommendations is having an interactive assistant from Netflix to search based on a little conversation about what users are feeling and process the natural language to mix and match the content types of the user preference from the conversation.
