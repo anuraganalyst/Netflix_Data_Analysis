@@ -12,7 +12,7 @@ This Project aims to unravel the hidden insights that would help Netflix achieve
 2. Retain the existing subscribers 
 3. Increase the watch time of subscriber
 # Tools Used
-SQL, Python & Tableau
+ Tableau & Python 
 # Dataset 
 [Netflix Dataset](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv)
 
